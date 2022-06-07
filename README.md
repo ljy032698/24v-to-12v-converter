@@ -7,5 +7,8 @@
 ![IMG_001](/Screenshots/IMG_001.png)
 ![IMG_002](/Screenshots/IMG_002.png)
 
+## 사용된 프로그램
+- [Kicad](https://kicad.org)
+
 ## 라이선스
 - [MIT](/LICENSE)
