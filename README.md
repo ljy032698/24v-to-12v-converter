@@ -1,6 +1,6 @@
-# 24V to 12V Regulator
+# 24V to 12V Converter
 
-24V에서 12V로 변환해주는 레귤레이터 회로도 및 PCB입니다.
+24V에서 12V로 변환해주는 컨버터 회로도 및 PCB입니다.
 
 ## 스크린샷
 
